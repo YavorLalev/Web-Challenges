@@ -1,18 +1,18 @@
 ## Title
 
-A list of current movies
+Movie Detail Page
 
 ## Value proposition
 
 As a Cinema fan
 
-I want to see a list of all new movies
+I want to see a detail page from every particular film
 
-So that that I can choose a proper one for me
+So that that I know the plot of every film.
 
 ## Description
 
-![wireframe](./assets/scribble-movie-list.png)
+![wireframe](./assets/scribble-movie-detail-page.png)
 
 ## Acceptance criteria
 

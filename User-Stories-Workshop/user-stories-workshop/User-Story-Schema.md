@@ -1,37 +1,36 @@
-# New Next Project
+## Title
 
-This project was created from the neue fische `next` template.
+## Value proposition
 
-You can [🔗 **use this template on CodeSandbox**](https://codesandbox.io/p/sandbox/github/neuefische/web-exercises/tree/main/templates/next?file=/README.md) or locally by running this command in your Terminal:
+As an <actor>
+I want a <feature>
+So that <benefit>
 
-```bash
-npx -y ghcd@latest neuefische/web-exercises/tree/main/templates/next my-app -i
-```
+## Description
 
-## Development
+- Scribble / design or text
+- Precise, no unnecessary information
 
-### Local Development
+## Acceptance criteria
 
-To work locally, please install the dependencies using `npm i` first.
+### Describe every scenario in detail:
 
-Run `npm run dev` to start a development server and open the displayed URL in a browser.
+- all possible user interactions
+- all possible states
+- all eventualities
+- possible errors
 
-Use `npm run test` to run the tests.
+## Tasks
 
-### CodeSandbox Cloud
+- Technical explanations: from developers for developers
 
-Select the "Preview: 3000" tab to view this project.
+- List the tasks that need to be performed within the
+  development team
+- Checkboxes: try to check as you work on it
 
-Select the "Tests: logs" tab to view the tests.
+## User Stories are for Everyone !!!
 
-> The `npm run dev` and `npm run test` scripts run automatically.
-
-### Scripts
-
-You can use the following commands:
-
-- `npm run dev` to start a development server
-- `npm run build` to build the project
-- `npm run start` to start a production server
-- `npm run test` to run the tests
-- `npm run lint` to run the linter
+- They are preparation, planning and documentation
+- All information about a feature shoukd be there
+- Use a language for non-developers
+- No technical details (only in 'Tasks' section)
