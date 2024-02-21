@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "artist": "The Muffs",
+    "title": "Sad tomorrow",
+    "year": 1995,
+    "cover": "https://i.discogs.com/Mrcp9W50p23XNen3At9MwveiAUUqFeFUrwEko3Mdz90/rs:fit/g:sm/q:90/h:423/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTkx/MzUtMTIyODMzNTg5/OC5qcGVn.jpeg"
+  },
+  {
+    "id": 2,
+    "artist": "Nirvana",
+    "title": "Nevermind",
+    "year": 1991,
+    "cover": "https://i.discogs.com/XoAXkLe03Vk0Kt-oQqw7V9uW5nBzQdNvZd0zar5mOiQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA4/NC0xMjYzMDk1NTUz/LmpwZWc.jpeg"
+  },
+  {
+    "id": 3,
+    "artist": "Radiohead",
+    "title": "Pablohoney",
+    "year": 1993,
+    "cover": "https://i.discogs.com/Y734zQvVbXxI4HzRykyCn2CA-T8Fvb1LQHpFp1IE3h8/rs:fit/g:sm/q:90/h:589/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTU0/Mi0xMjU4NDIxNjAz/LmpwZWc.jpeg"
+  }
+]
